@@ -1,0 +1,9 @@
+/* src/components/History.css */
+.history select {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+.history ul{
+    list-style:none ;
+}

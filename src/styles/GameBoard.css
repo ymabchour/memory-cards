@@ -1,0 +1,19 @@
+/* src/components/GameBoard.css */
+.game-board {
+    display: grid;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .game-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .game-16 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .game-32 {
+    grid-template-columns: repeat(8, 1fr);
+  }
+  
